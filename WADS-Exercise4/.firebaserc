@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "authtest-d0c58": {
+      "hosting": {
+        "WADS-Exercise4": [
+          "authtest-d0c58"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "millen-wads-exercise4"
+  }
+}
